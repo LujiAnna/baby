@@ -7,6 +7,7 @@ import reportWebVitals from './reportWebVitals';
 ReactDOM.render(
   <React.StrictMode>
     <App />
+    {/* <App title='The Recipes Cards App'/> */}
   </React.StrictMode>,
   document.getElementById('root')
 );
