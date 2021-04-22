@@ -26,7 +26,7 @@ class App extends React.Component {
     </div>
 
   {/* <RecipeList /> */}
-  <RecipeList recipes={this.recipes} />
+  <RecipeList recipes={recipes} />
 </div>     
       )
   }
